@@ -1,2 +1,3 @@
 This is a sample text for first git commit - 1806/0934
 This is a sample text committed from the branch feature/changes1 - 1806/0958
+This is the second change - 1806/1252
