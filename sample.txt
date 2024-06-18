@@ -1,0 +1,1 @@
+This is a sample text for first git commit - 1806/0934
